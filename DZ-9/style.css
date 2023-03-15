@@ -1,0 +1,100 @@
+body{
+    background-image: url(./background.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.box1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 25px;
+    margin: 25px;
+    justify-content: space-between;
+    border: 2px solid rgb(236, 204, 204);
+    border-radius: 20px;
+    background-color: rgba(170, 99, 237, 0.198);
+}
+h1{
+    color: white;
+}
+
+#login{
+    display: flex;
+    margin: 20px;
+    border-radius: 10px;
+    width: 250px;
+    height: 30px;
+    border: none;
+    outline: none;
+}
+
+#password{
+    display: flex;
+    border-radius: 10px;
+    width: 250px;
+    height: 30px;
+    margin-bottom: 20px;
+    border: none;
+    outline: none;
+    
+}
+
+#passwordCheck{
+    display: flex;
+    border-radius: 10px;
+    width: 250px;
+    height: 30px;
+    margin-bottom: 20px;
+    border: none;
+    outline: none;
+}
+
+#click{
+    display: flex;
+    border-radius: 15px;
+    width: 80%;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    padding: 20px;
+    background-color: rgb(217, 76, 203);
+    border: none;
+    color: white;
+}
+
+#passwordBlockFirst{
+    display: flex;
+    flex-direction: row;
+}
+
+#showPassword{
+    flex-direction: row;
+    color: blueviolet;
+}
+.eye__icon{
+    position: absolute ;
+        width: 20px;
+        right: 10px;
+        top:   8px;
+        height: 20px;
+
+
+}
+.passwordBlockSecond,.passwordBlockFirst{
+    position: relative;
+}
+
+#result{
+    max-width: 300px;
+    text-align: center;
+    display: flex;
+}
+
