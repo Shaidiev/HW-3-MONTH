@@ -1,0 +1,144 @@
+{
+    "data": [
+      {
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIfQe1V1Vl_eFPE_o3dl2PtkaZHwdzyDw8Qquwnng3uoPx97FUMNPfYLvI_r6ybzrtYRk&usqp=CAU",
+        "title": "HYATT REGENCY BISHKEK”",
+        "address": "Юсупа Абдрахманова, 191",
+        "rating": "8.6 Потрясающе",
+        "price": "129 $"
+      },
+      {
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/08/3c/d6/sheraton-bishkek.jpg?w=1400&h=-1&s=1",
+        "title": "SHERATON BISHKEK» ",
+        "address": "Киевская улица, 148",
+        "rating": "8.2 Очень хорошо",
+        "price": "190 $"
+      },
+      {
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/00/db/b1/caption.jpg?w=1100&h=-1&s=1",
+        "title": "JANNAT REGENCY",
+        "address": "Аалы Токомбаева, 21/2",
+        "rating": "8.2 Очень хорошо",
+        "price": "120 $"
+      },
+      {
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/7b/1f/0e/novotel-bishkek-city.jpg?w=1200&h=-1&s=1",
+        "title": "NOVOTEL BISHKEK CITY",
+        "address": "Манаса, 16",
+        "rating": "8.8 Потрясающе",
+        "price": "95 $"
+      },
+      {
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcqNIcGafLZEYHfexma3j8jXoQbxXwPAPv3P8KiJLtSQDpDDe8xY5rHE1wBW815D_fp8U&usqp=CAU",
+        "title": "PLAZA HOTEL BISHKEK",
+        "address": "Тоголок молдо, 52",
+        "rating": "8.2 Очень хорошо",
+        "price": "80 $"
+      },
+      {
+        "image_url": "https://nochi.com/data/Photos/380x200/5364/536488/536488545/Exterior.JPEG",
+        "title": "GARDEN HOTEL",
+        "address": "Медерова, 115",
+        "rating": "9.0 Превосходно",
+        "price": "65 $"
+      },
+      {
+        "image_url": "https://sris.edu.kg/wp-content/uploads/2022/04/Orion-Hotel-Bishkek-front-entrance.jpg",
+        "title": "ORION HOTEL BISHKEK» ",
+        "address": "Бульвар Эркиндик, 21",
+        "rating": "8.7 Потрясающе",
+        "price": "125 $"
+      },
+      {
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/7a/d3/2e/hotel-holiday-is-in-the.jpg?w=700&h=-1&s=1",
+        "title": "SMART HOTEL",
+        "address": "Юсупа Абдрахманова, 204а",
+        "rating": "7.9 Хорошо",
+        "price": "65 $"
+      },
+      {
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIfQe1V1Vl_eFPE_o3dl2PtkaZHwdzyDw8Qquwnng3uoPx97FUMNPfYLvI_r6ybzrtYRk&usqp=CAU",
+        "title": "HYATT REGENCY BISHKEK”",
+        "address": "Юсупа Абдрахманова, 191",
+        "rating": "8.6 Потрясающе",
+        "price": "129 $"
+      },
+      {
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/08/3c/d6/sheraton-bishkek.jpg?w=1400&h=-1&s=1",
+        "title": "SHERATON BISHKEK» ",
+        "address": "Киевская улица, 148",
+        "rating": "8.2 Очень хорошо",
+        "price": "190 $"
+      },
+      {
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/00/db/b1/caption.jpg?w=1100&h=-1&s=1",
+        "title": "JANNAT REGENCY",
+        "address": "Аалы Токомбаева, 21/2",
+        "rating": "8.2 Очень хорошо",
+        "price": "120 $"
+      },
+      {
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/7b/1f/0e/novotel-bishkek-city.jpg?w=1200&h=-1&s=1",
+        "title": "NOVOTEL BISHKEK CITY",
+        "address": "Манаса, 16",
+        "rating": "8.8 Потрясающе",
+        "price": "95 $"
+      },
+      {
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcqNIcGafLZEYHfexma3j8jXoQbxXwPAPv3P8KiJLtSQDpDDe8xY5rHE1wBW815D_fp8U&usqp=CAU",
+        "title": "PLAZA HOTEL BISHKEK",
+        "address": "Тоголок молдо, 52",
+        "rating": "8.2 Очень хорошо",
+        "price": "80 $"
+      },
+      {
+        "image_url": "https://nochi.com/data/Photos/380x200/5364/536488/536488545/Exterior.JPEG",
+        "title": "GARDEN HOTEL",
+        "address": "Медерова, 115",
+        "rating": "9.0 Превосходно",
+        "price": "65 $"
+      },
+      {
+        "image_url": "https://sris.edu.kg/wp-content/uploads/2022/04/Orion-Hotel-Bishkek-front-entrance.jpg",
+        "title": "ORION HOTEL BISHKEK» ",
+        "address": "Бульвар Эркиндик, 21",
+        "rating": "8.7 Потрясающе",
+        "price": "125 $"
+      },
+      {
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/7a/d3/2e/hotel-holiday-is-in-the.jpg?w=700&h=-1&s=1",
+        "title": "SMART HOTEL",
+        "address": "Юсупа Абдрахманова, 204а",
+        "rating": "7.9 Хорошо",
+        "price": "65 $"
+      },
+      {
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIfQe1V1Vl_eFPE_o3dl2PtkaZHwdzyDw8Qquwnng3uoPx97FUMNPfYLvI_r6ybzrtYRk&usqp=CAU",
+        "title": "HYATT REGENCY BISHKEK”",
+        "address": "Юсупа Абдрахманова, 191",
+        "rating": "8.6 Потрясающе",
+        "price": "129 $"
+      },
+      {
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/08/3c/d6/sheraton-bishkek.jpg?w=1400&h=-1&s=1",
+        "title": "SHERATON BISHKEK» ",
+        "address": "Киевская улица, 148",
+        "rating": "8.2 Очень хорошо",
+        "price": "190 $"
+      },
+      {
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/00/db/b1/caption.jpg?w=1100&h=-1&s=1",
+        "title": "JANNAT REGENCY",
+        "address": "Аалы Токомбаева, 21/2",
+        "rating": "8.2 Очень хорошо",
+        "price": "120 $"
+      },
+      {
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/7b/1f/0e/novotel-bishkek-city.jpg?w=1200&h=-1&s=1",
+        "title": "NOVOTEL BISHKEK CITY",
+        "address": "Манаса, 16",
+        "rating": "8.8 Потрясающе",
+        "price": "95 $"
+      }
+    ]
+  }
